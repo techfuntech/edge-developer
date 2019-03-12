@@ -71,7 +71,7 @@ body {
 | You can     | use headers | on tables    |
 |-------------|-------------|-------------:|
 | Left-aligned| Unless a #  | 456          |
-| Text value  | More text   | $0.00        |
+| Text value  | More text   | [$0.00](https://www.currency.wiki/usd_eur        | 
 
 ## Notes
 
